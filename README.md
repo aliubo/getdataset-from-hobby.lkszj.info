@@ -1,4 +1,6 @@
 若要自动化获取数据的话，运行main.py即可  
 仅需要调用requests、json、math、csv四个模块  
-
-我把当前获取到的所有数据放到hobby.csv下，使用Excel打开（2022/06/06 1:56）
+  
+保存的csv文件使用UTF-8+BOM编码格式  
+  
+不定时更新爬取数据，上传到 lkstable.csv上  
